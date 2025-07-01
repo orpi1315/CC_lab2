@@ -1,0 +1,9 @@
+struct Point {
+    int x;
+    int y;
+};
+int main() {
+    struct Point p1 = {1, 2};
+    p1.x = 5;
+    if(p1.y > 0) p1.y = 10;
+}
