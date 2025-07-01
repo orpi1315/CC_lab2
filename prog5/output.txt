@@ -20,7 +20,6 @@ p1 -> ID
 = -> ASSIGN
 { -> LB
 1 -> NUMBER
-Unknown character: ,
 2 -> NUMBER
 } -> RB
 ; -> SEMI

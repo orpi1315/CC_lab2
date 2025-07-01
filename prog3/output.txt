@@ -12,9 +12,7 @@ i -> ID
 { -> LB
 printf -> ID
 ( -> LP
-Unknown character: "
 %d -> FORMAT_SPEC
-Unknown character: "
 , -> COMMA
 i -> ID
 ) -> RP

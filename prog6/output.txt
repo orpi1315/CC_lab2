@@ -32,17 +32,13 @@ arr -> ID
 { -> LB
 1 -> NUMBER
 , -> COMMA
-Unknown character: "
 A -> ID
-Unknown character: "
 } -> RB
 , -> COMMA
 { -> LB
 2 -> NUMBER
 , -> COMMA
-Unknown character: "
 B -> ID
-Unknown character: "
 } -> RB
 } -> RB
 ; -> SEMI
@@ -58,8 +54,6 @@ i -> ID
 2 -> NUMBER
 ; -> SEMI
 i -> ID
-Unknown character: +
-Unknown character: +
 ) -> RP
 { -> LB
 arr -> ID
@@ -73,9 +67,7 @@ id -> ID
 ; -> SEMI
 printf -> PRINTF
 ( -> LP
-Unknown character: "
 %d -> FORMAT_SPEC
-Unknown character: "
 , -> COMMA
 arr -> ID
 [ -> LBRACKET

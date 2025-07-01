@@ -2,13 +2,11 @@ int -> ID
 a -> ID
 = -> ASSIGN
 5 -> NUMBER
-Unknown character: ,
 b -> ID
 = -> ASSIGN
 10 -> NUMBER
 ; -> SEMI
 if -> IF
-Unknown character: (
 a -> ID
 < -> LT
 b -> ID
@@ -16,10 +14,8 @@ b -> ID
 b -> ID
 > -> GT
 0 -> NUMBER
-Unknown character: )
 { -> LB
 if -> IF
-Unknown character: (
 a -> ID
 != -> NEQ
 0 -> NUMBER
@@ -27,7 +23,6 @@ a -> ID
 b -> ID
 == -> EQ
 10 -> NUMBER
-Unknown character: )
 { -> LB
 a -> ID
 = -> ASSIGN

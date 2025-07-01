@@ -40,7 +40,6 @@ arr -> ID
 [ -> LBRACKET
 i -> ID
 ] -> RBRACKET
-Unknown character: *
 2 -> NUMBER
 ; -> SEMI
 } -> RB

@@ -3,7 +3,6 @@ add -> ID
 ( -> LP
 int -> INT
 a -> ID
-Unknown character: ,
 int -> INT
 b -> ID
 ) -> RP
@@ -25,7 +24,6 @@ c -> ID
 add -> ID
 ( -> LP
 2 -> NUMBER
-Unknown character: ,
 3 -> NUMBER
 ) -> RP
 ; -> SEMI
